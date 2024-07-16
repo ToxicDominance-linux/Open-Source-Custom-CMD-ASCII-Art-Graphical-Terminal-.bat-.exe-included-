@@ -1,5 +1,5 @@
 @echo off
-title Pro Hacker Console Command Center
+title Pro Console Command Center
 chcp 65001 >nul
 echo.
 echo.
