@@ -4,7 +4,7 @@
 -Turn Off Virus Protection As It Can Flag Download
 
 
--Simply Extract To Desktop and Run!
+-Simply Extract To Desktop and Run As Administrator!
 
 
 -Feel Free To Customize To Your Liking!
